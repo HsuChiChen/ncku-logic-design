@@ -5,7 +5,7 @@ Time : 2021 spring (second half semester of sophomore)
 
 |subject|teacher|
 |:-:|:-:|
-|[邏輯系統實驗](http://class-qry.acad.ncku.edu.tw/syllabus/online_display.php?syear=0209&sem=2&co_no=E211600&class_code=1)|[林輝堂](https://www.ee.ncku.edu.tw/teacher/index2.php?teacher_id=43)|
+|[邏輯系統實驗](http://class-qry.acad.ncku.edu.tw/syllabus/online_display.php?syear=0109&sem=2&co_no=E211600&class_code=1)|[林輝堂](https://www.ee.ncku.edu.tw/teacher/index2.php?teacher_id=43)|
 
 <br>
 
@@ -124,7 +124,7 @@ run 10000000ns
 ## lab03
 ### 內容
 1. Encoder、Decoder<br>
-(S0,S1,S2,S3)=(1,0,0,0)
+`(S0,S1,S2,S3)=(1,0,0,0)`
 ![](img/lab03_1.jpg)
 2. MUX、DEMUX<br>
 
