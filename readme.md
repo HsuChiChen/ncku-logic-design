@@ -49,7 +49,7 @@ Time : 2021 spring (second half semester of sophomore)
 <br>
 
 ## How to Run (lab 04-05, 11-13)
-> more intro is my article [如何使用Modelsim進行數位電路模擬](https://hackmd.io/@HsuChiChen/modelsim) 
+> more intro in my article [如何使用Modelsim進行數位電路模擬](https://hackmd.io/@HsuChiChen/modelsim) 
 
 1. download repo
 ```
