@@ -282,7 +282,7 @@ run 10000000ns
 1.  Blocking
 2. Non-Blocking
 
-## 心得
+### 心得
 此次實驗介紹Blocking與Non-Blocking差異，內容相對簡單，我自己也參考了這篇文章[(原創)深入探討blocking與nonblocking (SOC) (Verilog)](https://www.cnblogs.com/oomusou/archive/2010/07/30/blocking_vs_nonblocking.html)，對於兩者之間的差異有了更深入的了解，其中包括event queue的概念: 由於電腦軟體本身是依序執行，但硬體電路卻可併行執行，simulator是軟體寫的，卻要能夠模擬出硬體電路的的並行執行，同時有很多信號被處理，因此需要將同一個time step要處理的信號放在一個event queue，simulator再依序處理，處理完後再處理下一個time step，這樣就能使依序執行的simulator可以模擬出並行執行的硬體電路。
 
 
