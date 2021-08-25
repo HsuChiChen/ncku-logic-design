@@ -294,7 +294,7 @@ run 10000000ns
 ![](img/lab13_1.svg)
 
 ### Specification
-`Sequence detector with overlap 2 patterns 010111 or 1101`<br>
+`Sequence detector with overlapped 2 patterns 010111 or 1101`<br>
 偵測連續cycle輸入，當連續4個cycle拿到的值為 1101或是連續6個cycle拿到的值為 010111時，當下cycle就會輸出1。
 
 ### C model
